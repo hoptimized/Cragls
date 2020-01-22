@@ -1,0 +1,17 @@
+Android_ETC2
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Packaged/Win64/content/*
+Packaged/Win64/output
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
